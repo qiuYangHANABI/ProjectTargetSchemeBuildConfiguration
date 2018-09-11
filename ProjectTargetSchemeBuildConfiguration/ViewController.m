@@ -19,7 +19,7 @@
  
  project: 一个project可以配置多个target，设置多个build configuration，并以不同的scheme执行。
  
- targets: 在project -> TARGETS 下创建(可以复制已有的target)，不同的target可以配置自己的General、Capabilities、Resource Tags、Info、Build Settings、Build Phases、Build Rules、plist文件，在build settings -> preprocessor macros 可以为target配置各自的宏定义，以区分不用的target。
+ targets: 在project -> TARGETS 下创建(可以复制已有的target)，不同的target可以配置自己的General(bundle id、appicon、launchscreen等等)、Capabilities、Resource Tags、Info、Build Settings(证书等等)、Build Phases、Build Rules、plist文件，在build settings -> preprocessor macros 可以为target配置各自的宏定义，以区分不用的target。
  
  build configurations: 在project -> info -> configurations下添加，可以在target的build settings 下的 preprocessor macros配置不同的宏定义加以区分。
  
