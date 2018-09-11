@@ -9,6 +9,44 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>TargetA-Debug.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>TargetA-Release.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>TargetA.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>CE3636052146612000F9EAEA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CE36361D2146612300F9EAEA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CE3636282146612300F9EAEA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CE36363B2146616A00F9EAEA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
